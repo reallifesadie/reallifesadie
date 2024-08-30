@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reallifesadie
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning webdev
+- 🌱 I’m currently learning anything and everything I can
 - 💞️ I’m looking to collaborate on code stuff cause thats fun
 - 📫 How to reach me reallifesadie@gmail.com
 
